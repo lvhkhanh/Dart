@@ -1,4 +1,6 @@
 # Dart
+## Official
+### https://medium.com/flutter/null-safety-flutter-tech-preview-cb5c98aba187 2020/10/23
 ## Labs
 ### https://codelabs.developers.google.com/codelabs/from-java-to-dart/index.html?index=..%2F..index
 Refers
